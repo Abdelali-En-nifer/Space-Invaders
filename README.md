@@ -1,1 +1,1 @@
-# Space-Invaders
+This project implements a simple game simulation framework in Java, featuring core game elements like a player, fire, and monsters. It provides a dynamic grid-based environment for game interactions and displays the current game state in a structured format.
